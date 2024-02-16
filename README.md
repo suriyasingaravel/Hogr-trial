@@ -9,3 +9,6 @@
 ![person](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/4871da01-4c84-465f-9f1e-76404db210d6)
 ![options](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/7d00e77b-8e5b-4af2-bbdd-cd743d8ec57f)
 ![dish](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/71abeac8-7baa-4002-8172-48602fa9d861)
+![search icon](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/7fb1dbd0-a919-42fd-93af-5e504a5c489e)
+![non-veg](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/406349ab-0121-4b47-ba81-215b4635a9b1)
+![veg](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/4567cec8-6591-4a80-8755-ca2d6a4ae722)
