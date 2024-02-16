@@ -16,3 +16,8 @@
 ![Ellipse 2042](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/1486e588-1f4a-41d3-a32a-2bf58c13a792)
 ![info-2 1](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/62eedf1a-e31a-47f0-a60a-ca7652682ca9)
 ![pizza](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/84145df0-60cc-4c04-b66d-9da27b5ee1a5)
+<img width="420" alt="08f0c3b85278badd0a7a29dd7a0781f4" src="https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/a446d144-b3ac-4641-97ca-20e12a169921">
+![refer image](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/7c0a1df1-0bfa-44b9-b370-ed9dc2e025bd)
+![camera](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/054622f4-7d28-432b-98b0-d126cf2b6347)
+![doublearrow](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/4b152e53-1ef6-40d7-bb26-4c75591f7313)
+![orderplaced](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/5ce83058-cff8-4a4c-8585-411e71c03abf)
