@@ -12,3 +12,7 @@
 ![search icon](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/7fb1dbd0-a919-42fd-93af-5e504a5c489e)
 ![non-veg](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/406349ab-0121-4b47-ba81-215b4635a9b1)
 ![veg](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/4567cec8-6591-4a80-8755-ca2d6a4ae722)
+![packet](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/449333ab-6ba2-4529-9d31-5a28d8a36dd4)
+![Ellipse 2042](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/1486e588-1f4a-41d3-a32a-2bf58c13a792)
+![info-2 1](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/62eedf1a-e31a-47f0-a60a-ca7652682ca9)
+![pizza](https://github.com/suriyasingaravel/Hogr-trial/assets/130346885/84145df0-60cc-4c04-b66d-9da27b5ee1a5)
